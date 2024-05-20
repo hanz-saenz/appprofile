@@ -7,7 +7,7 @@ Menú app con perfil de Usuario
 ![App Screenshot](image.png)
 ## Clone
 ```bash
-  git clone https://github.com/hanzbk/appmenu.git
+  git clone https://github.com/hanzbk/appprofile.git
 ```
 ## Install
 ```bash
